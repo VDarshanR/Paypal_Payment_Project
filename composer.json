@@ -1,0 +1,12 @@
+{
+    "require": {
+        "omnipay/paypal": "^3.0",
+        "symfony/http-client": "^6.0",
+        "nyholm/psr7": "^1.7"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
