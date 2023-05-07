@@ -4,3 +4,5 @@
       -> Go to this link https://developer.paypal.com/home/ and log in with your paypal credentials. Then, navigate to the Go to Dashboard and select Developer Dashboard.
       -> Developer Dashboard page will open. Then, click on Testing Tools and select Sandbox Accounts.There will be a default sandbox accounts you can use that to test or else you can create other sandbox accounts.
       -> After testing the PayPal payment in the Sandbox environment and ensuring that everything is working correctly, you can then switch to the Live environment
+-> If you would like to contribute to this project, please fork the repository and create a new branch for your changes.Then,submit a pull request with a detailed description of your changes and why they're needed.
+-> If you have any questions or feedback about this project, please feel free to contact me at developerdarshan04@gmail.com
